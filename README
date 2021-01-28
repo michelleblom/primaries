@@ -1,0 +1,10 @@
+----------------------------------------------------------------------------
+RAIRE-primaries: Risk-limiting Audits for IRV-based Presidential Primaries
+----------------------------------------------------------------------------
+
+Repository containing code for the paper "Auditing Hamiltonian Elections",
+at VOTING'21.
+
+Scripts and data are provided for replicating the results of the paper. 
+
+
